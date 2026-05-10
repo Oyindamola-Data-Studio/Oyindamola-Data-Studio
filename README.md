@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olakunle--fathia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/olakunle-fathia)
 [![GitHub](https://img.shields.io/badge/GitHub-Oyindamola-black?style=flat-square&logo=github)](https://github.com/Oyindamola)
 [![Email](https://img.shields.io/badge/Email-Olakunle.o.fathia@gmail.com-red?style=flat-square&logo=gmail)](mailto:Olakunle.o.fathia@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-00C8FF?style=flat-square&logo=netlify)](https://olakunle-fathia.netlify.app)
 
 | ND | 5+ Months | 3 Core Tools |
 |:---:|:---:|:---:|
