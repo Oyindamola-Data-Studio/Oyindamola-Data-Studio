@@ -72,7 +72,7 @@ Currently working as an **Accountant at Aksun Steel Engineering and Construction
 
 `Excel` `PivotTables` `Financial Modelling`
 
-🔗 [GitHub](https://github.com/Oyindamola) · *Coming Soon*
+🔗 [GitHub](https://github.com/Oyindamola) · *in progress*
 
 ---
 
@@ -81,7 +81,7 @@ Currently working as an **Accountant at Aksun Steel Engineering and Construction
 
 `Power BI` `DAX` `Data Visualisation`
 
-🔗 [GitHub](https://github.com/Oyindamola) · *Coming Soon*
+🔗 [GitHub](https://github.com/Oyindamola) · *in progress*
 
 ---
 
@@ -90,7 +90,7 @@ Currently working as an **Accountant at Aksun Steel Engineering and Construction
 
 `SQL` `Data Cleaning` `Exploratory Analysis`
 
-🔗 [GitHub](https://github.com/Oyindamola) · *Coming Soon*
+🔗 [GitHub](https://github.com/Oyindamola) · *in progress*
 
 ---
 
