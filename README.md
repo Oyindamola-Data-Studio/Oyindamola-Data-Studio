@@ -13,7 +13,7 @@
 
 | 🎓 Business Admin | 5+ Months | 3 Core Tools |
 |:---:|:---:|:---:|
-| Business Admin | Work Experience | Excel · Power BI · SQL |
+| Business Admin | Internship · Self-Taught | Excel · Power BI · SQL |
 
 </div>
 
@@ -21,7 +21,9 @@
 
 ## 👩🏾‍💼 About Me
 
-I'm a Business Administration graduate and aspiring Financial Analyst based in Ikorodu, Lagos. My path started with a strong foundation in organisational management and financial principles at Iresi Polytechnic.
+I'm a Business Administration graduate and aspiring Financial Analyst based in Ikorodu, Lagos. My path started with a strong foundation in organisational management and financial principles at Iresi Polytechnic. Currently interning at an engineering firm, where my eagerness 
+to upskill independently led to my retention — actively bridging 
+the gap between business knowledge and data analytics.
 
 I'm on a mission to bridge the gap between **traditional accounting** and **modern data-driven insights** — because the future of finance isn't just about recording numbers, it's about understanding what they mean and what to do next.
 
