@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Olakunle.o.fathia@gmail.com-red?style=flat-square&logo=gmail)](mailto:Olakunle.o.fathia@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-00C8FF?style=flat-square&logo=netlify)](https://olakunle-fathia.netlify.app)
 
-| ND | 5+ Months | 3 Core Tools |
+| 🎓 Business Admin | 5+ Months | 3 Core Tools |
 |:---:|:---:|:---:|
 | Business Admin | Work Experience | Excel · Power BI · SQL |
 
