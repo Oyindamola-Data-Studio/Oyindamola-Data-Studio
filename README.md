@@ -69,12 +69,16 @@ Currently working as an **Accountant at Aksun Steel Engineering and Construction
 
 ## 🚀 Projects
 
-### 001 — Financial Records Dashboard
-> Building an Excel-based financial tracking model inspired by real-world accounting work at Aksun Steel — tracking income, expenses, and monthly variance for a construction business.
+### 001 — Excel Salers Analysis — Emerald Prime Properties
+> Descriptive and conversion rate analysis on 193 property leads for Emerald Properties Ltd — built using Excel pivot tables,  > dashboards and PDF reports for management.
 
-`Excel` `PivotTables` `Financial Modelling`
+>  `Excel` `Pivot Tables` `Descriptive Analytics` `Conversion Analysis`
+ 
+>  🔗 [GitHub](https://github.com/Oyindamola-Data-Studio/excel-sales-analysis-emerald-properties) · *✅ Complete* 
 
-🔗 [GitHub](https://github.com/Oyindamola) · *in progress*
+---
+
+
 
 ---
 
@@ -83,16 +87,20 @@ Currently working as an **Accountant at Aksun Steel Engineering and Construction
 
 `Power BI` `DAX` `Data Visualisation`
 
-🔗 [GitHub](https://github.com/Oyindamola) · *in progress*
+🔗 [GitHub](https://github.com/Oyindamola-Data-Studio) · *in progress*
 
 ---
 
-### 003 — SQL Data Exploration — Sales Dataset
-> Using SQL to explore and clean a sales dataset — identifying revenue patterns, top-performing categories, and monthly trends as a practical learning project.
+### 003 — Financial Record Dashboard 
+> An Excel-based financial tracking model inspired by real-world 
+> accounting work at Aksun Steel Engineering and Construction Ltd 
+> — tracking income, expenses, and monthly variance to support 
+> management decision-making.
 
-`SQL` `Data Cleaning` `Exploratory Analysis`
+`Excel` `PivotTables` `Financial Modelling` `Variance Analysis`
 
-🔗 [GitHub](https://github.com/Oyindamola) · *in progress*
+
+🔗 [GitHub](https://github.com/Oyindamola-Data-Studio) · *in progress — Building Now*
 
 ---
 
